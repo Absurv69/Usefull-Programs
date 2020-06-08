@@ -1,0 +1,2 @@
+once started the program you will use s to start the clicker
+and s to stop it and you can exit it completely by pressing e
